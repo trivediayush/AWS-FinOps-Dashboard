@@ -39,6 +39,8 @@ This project implements a FinOps dashboard to track AWS Free Tier usage costs. I
 *   Service-wise cost distribution using bar or pie charts
 *   Trends over time (if usage\_date is included in queries)
 
+*   <img src="SS/ss.png">
+
 📝 License
 ----------
 
