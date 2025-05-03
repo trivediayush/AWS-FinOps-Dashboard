@@ -1,4 +1,4 @@
-AWS Free Tier FinOps Dashboard
+AWS FinOps Dashboard
 ==============================
 
 This project implements a FinOps dashboard to track AWS Free Tier usage costs. It uses Python for data processing, SQLite for storage, and Grafana for visual monitoring.
