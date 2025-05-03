@@ -14,7 +14,7 @@ This project implements a FinOps dashboard to track AWS usage costs. It uses Pyt
 ⚙️ Features
 -----------
 
-*   Tracks AWS services by usage and cost within Free Tier limits.
+*   Tracks AWS services by usage and cost.
 *   SQLite backend for lightweight data management.
 *   Grafana dashboard with visualizations (bar/pie charts) of service-wise costs.
 
