@@ -1,4 +1,4 @@
-AWS FinOps Dashboard
+AWS Cost Analytics and FinOps Dashboard
 ==============================
 
 This project implements a FinOps dashboard to track AWS usage costs. It uses Python for data processing, SQLite for storage, and Grafana for visual monitoring.
